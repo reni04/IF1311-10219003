@@ -2,6 +2,6 @@
 
 ## Nama : Reni Anggraeni
 
-#### NIM : 10219003
+## NIM : 10219003
 
-###### Nama Matakuliah : Algoritma dan Struktur Data
+## Nama Matakuliah : Algoritma dan Struktur Data
